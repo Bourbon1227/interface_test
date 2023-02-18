@@ -1,0 +1,82 @@
+2023-02-11 16:41:50,688 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 16:43:39,564 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 16:43:57,693 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 16:44:15,275 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 17:21:54,065 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 17:21:54,066 ERROR [root] [test01_select_phone.py(test01_select_phone:29)] - 断言失败，期望结果为：1，实际结果为：200
+2023-02-11 17:22:45,027 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 17:22:45,027 INFO [root] [test01_select_phone.py(test01_select_phone:26)] - 开户认证的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 17:23:36,038 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 17:23:36,038 INFO [root] [test01_select_phone.py(test01_select_phone:25)] - 开户认证的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 17:23:36,038 ERROR [root] [test01_select_phone.py(test01_select_phone:29)] - 断言失败，期望结果为：1，实际结果为：200
+2023-02-11 17:31:57,453 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 17:31:57,454 INFO [root] [test01_select_phone.py(test01_select_phone:25)] - 开户认证的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 18:19:04,891 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 18:19:04,892 INFO [root] [test01_select_phone.py(test01_select_phone:28)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 18:19:04,892 ERROR [root] [test01_select_phone.py(test01_select_phone:33)] - 断言失败，期望结果为：200，实际结果为：None
+2023-02-11 18:28:46,467 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 18:28:46,468 INFO [root] [test01_select_phone.py(test01_select_phone:28)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 18:28:46,468 ERROR [root] [test01_select_phone.py(test01_select_phone:33)] - 断言失败，期望结果为：联通，实际结果为：None
+2023-02-11 18:31:07,527 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 18:31:07,527 INFO [root] [test01_select_phone.py(test01_select_phone:28)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 18:31:07,527 ERROR [root] [test01_select_phone.py(test01_select_phone:33)] - 断言失败，期望结果为：联通，实际结果为：None
+2023-02-11 18:34:43,080 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 18:34:43,080 INFO [root] [test01_select_phone.py(test01_select_phone:28)] - 查询手机号运营商的结果为：None
+2023-02-11 18:53:43,500 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 18:53:43,500 INFO [root] [test01_select_phone.py(test01_select_phone:28)] - 查询手机号运营商的结果为：联通
+2023-02-11 18:54:59,533 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 18:54:59,533 INFO [root] [test01_select_phone.py(test01_select_phone:28)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 21:10:33,131 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:10:33,132 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 21:18:45,677 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:18:45,678 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 21:18:45,758 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:18:45,758 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '黄冈', 'sp': '移动'}}
+2023-02-11 21:18:45,758 ERROR [root] [test01_select_phone.py(test01_select_phone:36)] - 断言失败，期望结果为：移动，实际结果为：None
+2023-02-11 21:18:46,273 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:18:46,273 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '山东', 'city': '菏泽', 'sp': '电信'}}
+2023-02-11 21:18:46,273 ERROR [root] [test01_select_phone.py(test01_select_phone:36)] - 断言失败，期望结果为：电信，实际结果为：None
+2023-02-11 21:21:58,490 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:21:58,491 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 21:21:58,636 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:21:58,636 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '黄冈', 'sp': '移动'}}
+2023-02-11 21:21:58,637 ERROR [root] [test01_select_phone.py(test01_select_phone:36)] - 断言失败，期望结果为：移动，实际结果为：None
+2023-02-11 21:21:59,244 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:21:59,244 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '山东', 'city': '菏泽', 'sp': '电信'}}
+2023-02-11 21:21:59,244 ERROR [root] [test01_select_phone.py(test01_select_phone:36)] - 断言失败，期望结果为：电信，实际结果为：None
+2023-02-11 21:22:06,601 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:22:06,602 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 21:22:06,679 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:22:06,680 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '黄冈', 'sp': '移动'}}
+2023-02-11 21:22:06,680 ERROR [root] [test01_select_phone.py(test01_select_phone:36)] - 断言失败，期望结果为：移动，实际结果为：None
+2023-02-11 21:22:07,213 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:22:07,213 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '山东', 'city': '菏泽', 'sp': '电信'}}
+2023-02-11 21:22:07,213 ERROR [root] [test01_select_phone.py(test01_select_phone:36)] - 断言失败，期望结果为：电信，实际结果为：None
+2023-02-11 21:24:58,370 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:24:58,370 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '山东', 'city': '菏泽', 'sp': '电信'}}
+2023-02-11 21:24:58,371 ERROR [root] [test01_select_phone.py(test01_select_phone:36)] - 断言失败，期望结果为：电信，实际结果为：None
+2023-02-11 21:27:32,885 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:27:32,885 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 21:31:15,905 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:31:15,905 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 21:31:15,989 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:31:15,989 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '黄冈', 'sp': '移动'}}
+2023-02-11 21:31:15,990 ERROR [root] [test01_select_phone.py(test01_select_phone:36)] - 断言失败，期望结果为：移动，实际结果为：None
+2023-02-11 21:31:16,761 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:31:16,762 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '山东', 'city': '菏泽', 'sp': '电信'}}
+2023-02-11 21:31:16,762 ERROR [root] [test01_select_phone.py(test01_select_phone:36)] - 断言失败，期望结果为：电信，实际结果为：None
+2023-02-11 21:32:57,971 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:32:57,972 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '山东', 'city': '菏泽', 'sp': '电信'}}
+2023-02-11 21:32:57,972 ERROR [root] [test01_select_phone.py(test01_select_phone:36)] - 断言失败，期望结果为：电信，实际结果为：None
+2023-02-11 21:34:34,190 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:34:34,190 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 21:34:34,266 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:34:34,266 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '黄冈', 'sp': '移动'}}
+2023-02-11 21:34:34,577 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:34:34,577 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '山东', 'city': '菏泽', 'sp': '电信'}}
+2023-02-11 21:50:14,294 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:50:14,294 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-11 21:50:14,764 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:50:14,765 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '黄冈', 'sp': '移动'}}
+2023-02-11 21:50:14,883 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-11 21:50:14,883 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '山东', 'city': '菏泽', 'sp': '电信'}}

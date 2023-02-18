@@ -1,0 +1,2 @@
+INFO     root:api_select.py:16 查询手机号信息
+INFO     root:test01_select_phone.py:31 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}

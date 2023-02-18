@@ -1,0 +1,22 @@
+{
+  "phone": [
+    {
+      "desc": "查询联通手机号的运营商信息",
+      "mobile": 15629121891,
+      "expect_response_code": 0,
+      "sp": "联通"
+    },
+    {
+      "desc": "查询移动手机号的运营商信息",
+      "mobile": 13477617830,
+      "expect_response_code": 0,
+      "sp": "移动"
+    },
+    {
+      "desc": "查询电信手机号的运营商信息",
+      "mobile": 19154568336,
+      "expect_response_code": 0,
+      "sp": "电信"
+    }
+         ]
+}

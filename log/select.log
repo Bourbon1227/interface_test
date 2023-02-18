@@ -1,0 +1,6 @@
+2023-02-18 16:54:28,930 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-18 16:54:28,948 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '武汉', 'sp': '联通'}}
+2023-02-18 16:54:29,039 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-18 16:54:29,039 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '湖北', 'city': '黄冈', 'sp': '移动'}}
+2023-02-18 16:54:29,161 INFO [root] [api_select.py(select_phone:16)] - 查询手机号信息
+2023-02-18 16:54:29,161 INFO [root] [test01_select_phone.py(test01_select_phone:31)] - 查询手机号运营商的结果为：{'code': 0, 'data': {'province': '山东', 'city': '菏泽', 'sp': '电信'}}
